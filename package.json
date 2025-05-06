@@ -1,0 +1,23 @@
+{
+  "name": "deport-o-matic-3000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.69",
+    "@types/node": "^22.13.11",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "form-data": "^4.0.2",
+    "multer": "^1.4.5-lts.2",
+    "openai": "^4.95.1",
+    "sharp": "^0.34.1"
+  }
+}
